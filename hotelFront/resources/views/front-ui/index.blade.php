@@ -1,3 +1,3 @@
-@extends('front-ui.layouts.menu')
+@extends('front-ui.layouts.master')
 
 

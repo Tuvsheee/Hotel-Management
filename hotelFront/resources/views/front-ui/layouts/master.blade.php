@@ -14,6 +14,7 @@
 </head>
 <body>
         <h1>The Marina</h1>
+        <h2>WELCOME TO</h2>
         <h3>Resort And Hotel</h3>
         <form method="post" action="front-ui.layouts.menu ">
             <button class="booking" type="submit">BOOK NOW</button>
