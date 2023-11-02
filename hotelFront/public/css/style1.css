@@ -36,7 +36,54 @@ body{
     font-family: sans-serif;
     position: absolute;
     top:65%;
-    left:5%;
+    left:8%;
     transform: translateX(-50);
+    color: black; /* Text color */
+    border: 2px solid black; /* Border style and color */
+    padding: 10px; /* Padding around the text */
+    display: inline-block; /* Make the border fit the text width */
+  }
+ .info2{
+  top:75%;
+  font-size:2em;
+
+ }
+ .info5{
+  top:75%;
+  font-size:2em;
+
+ }
+ .info8{
+  top:75%;
+  font-size:2em;
+
+ }
+  .data2{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    position: absolute;
+    top:65%;
+    left:40%;
+    transform: translateX(-50);
+    color: black; /* Text color */
+    border: 2px solid black; /* Border style and color */
+    padding: 10px; /* Padding around the text */
+    display: inline-block; /* Make the border fit the text width */
+  }
+  .data3{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: sans-serif;
+    position: absolute;
+    top:65%;
+    left:67%;
+    transform: translateX(-50);
+    color: black; /* Text color */
+    border: 1px solid black; /* Border style and color */
+    padding: 10px; /* Padding around the text */
+    display: inline-block; /* Make the border fit the text width */
   }
 
